@@ -1,0 +1,1 @@
+nom,oran,prenom,laid,nomUtilisateur,laid10,motDePasse,1234,budget,0.0,balance,0.0,totalDepense,0.0,date,17-7-2021, 
